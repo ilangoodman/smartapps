@@ -1,2 +1,2 @@
-# smartapps
-SmartThings SmartApps
+# smartthings
+SmartThings stuff - SmartApps and custom device handlers
